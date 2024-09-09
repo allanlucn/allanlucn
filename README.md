@@ -46,7 +46,7 @@
   <a href="https://discordapp.com/users/allanlucena321" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/allan-lucena-332547222/" target="_blank">
+  <a href="https://www.linkedin.com/in/allanlucn" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="allanmagalhaes2010@hotmail.com" target="_blank">
