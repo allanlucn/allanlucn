@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Allan Lucena
+# 👋 Olá, eu sou o Allan
 
 ### 🎓 Estudante de Ciência da Computação
 
