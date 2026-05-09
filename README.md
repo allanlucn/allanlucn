@@ -29,13 +29,3 @@ Gosto de construir projetos simples, bem documentados, fáceis de manter e que r
 
 - LinkedIn: [allanlucn](https://www.linkedin.com/in/allanlucn)
 - Email: [allanmagalhaes2010@hotmail.com](mailto:allanmagalhaes2010@hotmail.com)
-
-<details>
-  <summary>Ver estatísticas do GitHub</summary>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=allanlucn&show_icons=true&theme=github_dark&hide_title=true" alt="Allan's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allanlucn&layout=compact&theme=github_dark" alt="Top Languages" height="150" />
-
-</details>
