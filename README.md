@@ -10,7 +10,6 @@ Gosto de construir projetos simples, bem documentados, fáceis de manter e que r
 - 💼 Atualmente trabalhando com: Java, Spring Boot, Angular, TypeScript, PostgreSQL/MySQL e Docker.
 - 🔭 Estudando: estruturas de dados, arquitetura de APIs, redes, Linux e fundamentos de DevOps.
 - 🌱 Também aprimorando: JavaScript/Node, Python, React e boas práticas de desenvolvimento.
-- 📌 Confira os repositórios fixados abaixo para ver alguns projetos em que estou trabalhando.
 
 ## Stack principal
 
@@ -25,20 +24,6 @@ Gosto de construir projetos simples, bem documentados, fáceis de manter e que r
 
 **Interesses**  
 `APIs RESTful` · `DevOps` · `Infraestrutura` · `Automação` · `LLMs` · `Soluções data-driven`
-
-## Projetos em destaque
-
-### RadarCidadão
-
-Plataforma full stack de transparência legislativa, desenvolvida com **FastAPI** e **React**, com integração a dados públicos e uso de IA para sumarização de projetos de lei.
-
-### Dashboard Anti-Evasão Escolar
-
-Solução para monitoramento escolar com uso de **NLP**, automação de comunicação e painéis gerenciais para apoio à tomada de decisão.
-
-### Etch-a-Sketch
-
-Projeto front-end interativo desenvolvido para praticar **JavaScript**, manipulação do DOM e lógica de interface.
 
 ## Onde me encontrar
 
