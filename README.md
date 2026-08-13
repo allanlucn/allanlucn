@@ -1,39 +1,44 @@
 # Allan Lucena
 
-**Desenvolvedor Full Stack Júnior** · Java/Spring Boot · Angular/TypeScript
+**Junior Full Stack Developer** · Java/Spring Boot · Angular/TypeScript
 
-João Pessoa, PB · [LinkedIn](https://www.linkedin.com/in/allanlucn) · [E-mail](mailto:allanmagalhaes2010@hotmail.com)
+João Pessoa, Brazil · [LinkedIn](https://www.linkedin.com/in/allanlucn) · [Email](mailto:allanmagalhaes2010@hotmail.com)
 
-Atuo em uma consultoria de software, desenvolvendo sistemas de gestão B2B em uma equipe técnica enxuta. Participo do levantamento de requisitos com clientes e trabalho da regra de negócio à entrega, construindo APIs REST, integrações entre serviços e interfaces web.
+I work at a software consultancy building B2B management systems within a small engineering team. I take part in client requirements discussions and turn business rules into REST APIs, service integrations, and web interfaces.
 
-Minha experiência se concentra no ecossistema **Java e Spring Boot** no back-end e **Angular e TypeScript** no front-end, com atenção especial a segurança, testes automatizados e confiabilidade de integrações.
+My professional experience is centered on **Java and Spring Boot** for back-end development and **Angular and TypeScript** for front-end development, with a focus on security, automated testing, and reliable integrations.
 
-Também tenho experiência anterior em infraestrutura de TI, com automação, Linux, controle de acesso, monitoramento e suporte a ambientes de produção.
+I also have a background in IT infrastructure, including automation, Linux, access control, system monitoring, and production support.
 
-## Projetos selecionados
+## Selected projects
 
-### [Coup Online](https://github.com/allanlucn/couponline) · [Demo](https://oncoup.vercel.app/)
+### [Coup Online](https://github.com/allanlucn/couponline) · [Live demo](https://oncoup.vercel.app/)
 
 `React 19` `TypeScript` `TanStack Start` `Supabase` `Realtime`
 
-Jogo multiplayer de blefe para 2–6 participantes. Evoluí o projeto com motor determinístico de regras, fluxos server-side, salas privadas, RLS, segregação de estado público/privado e testes automatizados.
+A real-time bluffing game for 2–6 players. I evolved the project with a deterministic game engine, server-side flows, private rooms, Row Level Security, public/private state separation, and automated tests.
 
 ### [RadarCidadão](https://github.com/allanlucn/RadarCidadao)
 
-`React` `FastAPI` `PostgreSQL` `Groq` `Dados abertos`
+`React` `FastAPI` `PostgreSQL` `Groq` `Open data`
 
-Plataforma colaborativa de transparência legislativa criada no Hackathon Devs de Impacto. Atuei principalmente no front-end, desenvolvendo onboarding, feed, perfil, chat integrado à API e geração de cards, além de contribuições pontuais em prompts e rotas de agentes.
+A collaborative legislative transparency platform built during the Devs de Impacto hackathon. I worked primarily on the React front end, developing onboarding, feed, profile, API-integrated chat, and shareable cards, with additional contributions to prompts and agent routes.
 
-## Tecnologias
+## Tech stack
 
-| Área | Tecnologias e práticas |
+| Area | Technologies and practices |
 | --- | --- |
-| **Back-end** | Java 21, Spring Boot 3, Spring Data JPA/Hibernate, Spring Security, Maven e APIs REST |
-| **Front-end** | Angular 18, TypeScript, RxJS, Angular Material, React 19, TanStack e Tailwind CSS |
-| **Dados e qualidade** | PostgreSQL, SQL, JUnit, Spring Boot Test, Spring Security Test e Testcontainers |
-| **Engenharia** | JWT, OAuth2 Resource Server, autorização granular, idempotência, transactional outbox, request ID e logs estruturados |
-| **Ferramentas** | Git, GitHub, GitLab, Docker, Docker Compose, Linux, Vite, Bun e Vercel |
+| **Back end** | Java 21, Spring Boot 3, Spring Data JPA/Hibernate, Spring Security, Maven, and REST APIs |
+| **Front end** | Angular 18, TypeScript, RxJS, Angular Material, React 19, TanStack, and Tailwind CSS |
+| **Data and quality** | PostgreSQL, SQL, JUnit, Spring Boot Test, Spring Security Test, and Testcontainers |
+| **Engineering** | JWT, OAuth2 Resource Server, fine-grained authorization, idempotency, transactional outbox, request IDs, and structured logging |
+| **Tools** | Git, GitHub, GitLab, Docker, Docker Compose, Linux, Vite, Bun, and Vercel |
 
-## Formação
+## Education
 
-Graduando em **Ciência da Computação no UNIPÊ**, com conclusão prevista para 2027. Possuo **inglês avançado**, certificado pela JPI Idiomas.
+**B.Sc. in Computer Science**, UNIPÊ — expected graduation in 2027.
+
+## Languages
+
+- Portuguese
+- English
